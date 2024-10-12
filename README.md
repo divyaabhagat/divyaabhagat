@@ -1,0 +1,7 @@
+- 👋 Hello, I’m **Divya**
+- 👀 I’m interested in data visualization, machine learning, and creating impactful data-driven solutions.
+- 🌱 I’m currently learning more about generative AI and advanced data modeling techniques.
+- 💞️ I’m looking to collaborate on projects involving predictive analytics and data storytelling.
+- 📫 How to reach me: divyaabhagat5@gmail.com or connect with me on https://www.linkedin.com/in/divyaa-bhagat/.
+- 😄 Pronouns: She/Her
+- ⚡ Fun fact: I once analyzed a dataset of music tracks to uncover hidden trends, and I love integrating creativity with data!
